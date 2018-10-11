@@ -4,3 +4,4 @@ b = int(input())
 c = int(input())
 a = b+ c
 print ("Wynik dodawania {} i {} równa się {}".format(b,c,a) )
+//what now
